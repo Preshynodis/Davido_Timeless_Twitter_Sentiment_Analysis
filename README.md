@@ -1,7 +1,7 @@
 # Davido's Timeless Album: Twitter Sentiment and Engagement Analysis
 Timeless is the fourth studio album by singer Davido, which was released on the 31st March 2023. The album made a lot of buzz and trends across social media and streaming platforms during it's first moments of release. This project is aimed at uncovering insights on this album using Natural Language Processing (NLP) to know the user engagements on Twitter. 
 
-The project is a python-based project, where by the scraped using hashtags #timeless and #timelessalbum. After the analysis on python, I used Microsoft Power BI to do further analysis and created a [dashboard](). The full project documentation can be found on [medium](https//:). 
+The project is a python-based project, where by the scraped using hashtags #timeless and #timelessalbum. After the analysis on python, I used Microsoft Power BI to do further analysis and created a [dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U2M2JlMjMtODI0Yy00MWFjLTg4NjEtMzk1YjU0Yjc2ZDBhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9). The full project documentation can be found on [medium](https//:). 
 
 # Process Methodology
 - **Data Requirement Gathering**: For this stage, I generated the questions I needed to answer from my analysis. This in turn guided my insights during the later course of this project. 
